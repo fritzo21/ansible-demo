@@ -1,0 +1,3 @@
+- include: playbooks/install.yaml
+- include: playbooks/service.yaml
+- include: playbooks/copy.yaml
