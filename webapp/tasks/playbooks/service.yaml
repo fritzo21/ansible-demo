@@ -1,5 +1,4 @@
 - name: start service
-  become: yes
-      service:
+  service:
         name: httpd
         state: started
