@@ -1,4 +1,4 @@
 ---
-- hosts: prod
+- hosts: dev
   roles:
-    - webapp
+    - webapp 
